@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs25unkngoog_0007.png"; bbox 0 0 3750 6000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1057 1735 1098 1931">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1057 1735 1098 1931">
+     <span class='ocr_line' id='line_1_1' title="bbox 1057 1735 1098 1931; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1057 1735 1098 1931; x_wconf 61' lang='lat' dir='ltr'>‘l</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1196 1932 1201 1939">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1196 1932 1201 1939">
+     <span class='ocr_line' id='line_1_2' title="bbox 1196 1932 1201 1939; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1196 1932 1201 1939; x_wconf 76' lang='grc' dir='ltr'><strong>ι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 937 1754 1321 2195">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 937 1754 1321 2195">
+     <span class='ocr_line' id='line_1_3' title="bbox 949 1754 1321 1923; baseline 0.019 0"><span class='ocrx_word' id='word_1_3' title='bbox 949 1769 1047 1923; x_wconf 62' lang='grc' dir='ltr'>,Μ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1318 1754 1321 1759; x_wconf 78' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 937 1988 1219 2195; baseline 0.06 -16"><span class='ocrx_word' id='word_1_5' title='bbox 937 1988 1219 2195; x_wconf 59' lang='grc' dir='ltr'><em>Μ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 483 2908 1578 2993">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 483 2908 1578 2993">
+     <span class='ocr_line' id='line_1_5' title="bbox 483 2908 1578 2993; baseline 0.015 -33"><span class='ocrx_word' id='word_1_6' title='bbox 483 2909 580 2974; x_wconf 53' lang='lat' dir='ltr'>cauny.</span> <span class='ocrx_word' id='word_1_7' title='bbox 599 2938 630 2948; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_8' title='bbox 648 2908 681 2961; x_wconf 61' lang='grc' dir='ltr'>ιι</span> <span class='ocrx_word' id='word_1_9' title='bbox 698 2914 766 2979; x_wconf 71' lang='lat' dir='ltr'>typis</span> <span class='ocrx_word' id='word_1_10' title='bbox 782 2914 865 2973; x_wconf 72' lang='grc' dir='ltr'>ΡΑυι.</span> <span class='ocrx_word' id='word_1_11' title='bbox 881 2917 1019 2985; x_wconf 52' lang='lat' dir='ltr'>ouva-*112</span> <span class='ocrx_word' id='word_1_12' title='bbox 1034 2924 1073 2979; x_wconf 68' lang='grc' dir='ltr'>ιε.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1091 2924 1131 2973; x_wconf 71' lang='lat' dir='ltr'>vu</span> <span class='ocrx_word' id='word_1_14' title='bbox 1148 2921 1217 2987; x_wconf 63' lang='lat' dir='ltr'>dicu</span> <span class='ocrx_word' id='word_1_15' title='bbox 1230 2923 1442 2992; x_wconf 56' lang='lat' dir='ltr'><strong><em>mamm·</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1457 2925 1578 2993; x_wconf 62' lang='lat' dir='ltr'>ma.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1880 6000">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1880 6000">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1880 6000; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1880 6000; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
